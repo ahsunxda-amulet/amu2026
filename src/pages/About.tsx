@@ -19,7 +19,7 @@ export default function About() {
         canonicalUrl="https://amulet-pharmaceuticals.com/about"
       />
       {/* Hero Header */}
-      <section className="bg-slate-900 py-24 text-center relative overflow-hidden bg-[url('https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?q=80&w=2070&auto=format&fit=crop')] bg-cover bg-center">
+      <section className="bg-slate-900 py-24 text-center relative overflow-hidden bg-[url('/images/about-hero.jpg')] bg-cover bg-center">
         <div className="absolute inset-0 bg-slate-900/80 backdrop-blur-sm"></div>
         <div className="relative z-10 max-w-4xl mx-auto px-4">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">About Amulet</h1>

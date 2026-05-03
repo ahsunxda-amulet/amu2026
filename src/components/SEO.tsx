@@ -26,7 +26,7 @@ export default function SEO({
     "@type": "Organization",
     "name": "Amulet Pharmaceuticals Ltd.",
     "url": "https://amulet-pharmaceuticals.com/",
-    "logo": "https://amulet-pharmaceuticals.com/logo.png",
+    "logo": "https://amulet-pharmaceuticals.com/images/logo.png",
     "description": "Healthcare Through Advanced Technology in Bangladesh.",
     "contactPoint": {
       "@type": "ContactPoint",

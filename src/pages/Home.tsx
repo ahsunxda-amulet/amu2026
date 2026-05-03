@@ -24,10 +24,9 @@ export default function Home() {
       <section className="relative w-full overflow-hidden bg-slate-900 border-b-8 border-[#0066AE]">
         <div className="absolute inset-0 z-0 opacity-40">
            <img 
-            src="https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?q=80&w=2070&auto=format&fit=crop" 
+            src="/images/home-hero.jpg" 
             alt="Pharmaceutical Manufacturing Laboratory" 
             className="w-full h-full object-cover"
-            referrerPolicy="no-referrer"
           />
           <div className="absolute inset-0 bg-gradient-to-r from-slate-900 via-slate-900/80 to-transparent"></div>
         </div>
@@ -93,10 +92,9 @@ export default function Home() {
                className="relative h-80 sm:h-96 lg:h-[600px] rounded-2xl overflow-hidden shadow-2xl"
             >
               <img 
-                src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?q=80&w=2080&auto=format&fit=crop" 
+                src="/images/home-lab.jpg" 
                 alt="Medical Laboratory" 
                 className="w-full h-full object-cover object-center"
-                referrerPolicy="no-referrer"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-[#0066AE] via-transparent to-transparent opacity-60 mix-blend-multiply"></div>
             </motion.div>
@@ -148,10 +146,9 @@ export default function Home() {
             <div className="order-2 lg:order-1">
               <div className="relative rounded-2xl overflow-hidden shadow-lg mb-8 h-64 md:h-80">
                 <img 
-                  src="https://images.unsplash.com/photo-1587825027984-c4b4d66ca855?q=80&w=2070&auto=format&fit=crop" 
+                  src="/images/home-manufacturing.jpg" 
                   alt="Manufacturing Line" 
                   className="w-full h-full object-cover"
-                  referrerPolicy="no-referrer"
                 />
               </div>
               <h3 className="text-2xl font-bold text-slate-900 mb-4">Manufacturing Prowess</h3>

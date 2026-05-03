@@ -11,7 +11,7 @@ export default function Facilities() {
         canonicalUrl="https://amulet-pharmaceuticals.com/facilities"
       />
       {/* Header */}
-      <section className="bg-slate-900 py-20 text-center relative overflow-hidden bg-[url('https://images.unsplash.com/photo-1587825027984-c4b4d66ca855?q=80&w=2070&auto=format&fit=crop')] bg-cover bg-center">
+      <section className="bg-slate-900 py-20 text-center relative overflow-hidden bg-[url('/images/home-manufacturing.jpg')] bg-cover bg-center">
          <div className="absolute inset-0 bg-[#0066AE]/80 backdrop-blur-sm mix-blend-multiply"></div>
          <div className="absolute inset-0 bg-slate-900/60 gradient-mask-b-90"></div>
         <div className="relative z-10 max-w-4xl mx-auto px-4">
@@ -77,8 +77,8 @@ export default function Facilities() {
                viewport={{ once: true }}
                className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-8 lg:mt-0"
             >
-              <img src="https://images.unsplash.com/photo-1563213126-a4273aed2016?q=80&w=2070&auto=format&fit=crop" alt="Production line" className="w-full h-64 object-cover rounded-2xl shadow-md" referrerPolicy="no-referrer" />
-              <img src="https://images.unsplash.com/photo-1614935151651-0bea6508abb0?q=80&w=2070&auto=format&fit=crop" alt="Clean room" className="w-full h-64 object-cover rounded-2xl shadow-md sm:mt-8" referrerPolicy="no-referrer" />
+              <img src="/images/facilities-production.jpg" alt="Production line" className="w-full h-64 object-cover rounded-2xl shadow-md" />
+              <img src="/images/facilities-cleanroom.jpg" alt="Clean room" className="w-full h-64 object-cover rounded-2xl shadow-md sm:mt-8" />
             </motion.div>
           </div>
         </div>
@@ -109,7 +109,7 @@ export default function Facilities() {
                </div>
                
                <div className="bg-slate-900 relative min-h-[400px]">
-                  <img src="https://images.unsplash.com/photo-1574169208507-84376144848b?q=80&w=2079&auto=format&fit=crop" alt="Laboratory Analyst" className="absolute inset-0 w-full h-full object-cover opacity-60" referrerPolicy="no-referrer" />
+                  <img src="/images/facilities-lab.jpg" alt="Laboratory Analyst" className="absolute inset-0 w-full h-full object-cover opacity-60" />
                   <div className="absolute inset-0 bg-gradient-to-r from-slate-900/80 to-transparent"></div>
                </div>
             </div>

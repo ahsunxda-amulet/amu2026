@@ -10,7 +10,7 @@ export default function Contact() {
         description="Get in touch with Amulet Pharmaceuticals Ltd. Find our corporate headquarters and factory contact information."
         canonicalUrl="https://amulet-pharmaceuticals.com/contact"
       />
-      <section className="bg-slate-900 py-20 text-center relative overflow-hidden bg-[url('https://images.unsplash.com/photo-1577563908411-50cb98976cfe?q=80&w=2070&auto=format&fit=crop')] bg-cover bg-center">
+      <section className="bg-slate-900 py-20 text-center relative overflow-hidden bg-[url('/images/contact-hero.jpg')] bg-cover bg-center">
         <div className="absolute inset-0 bg-[#0066AE]/80 backdrop-blur-sm mix-blend-multiply"></div>
         <div className="relative z-10 max-w-4xl mx-auto px-4">
           <h1 className="text-3xl md:text-5xl font-bold text-white mb-6">Get in Touch</h1>
