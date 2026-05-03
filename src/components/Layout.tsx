@@ -6,7 +6,7 @@ const Logo = ({ white = false }: { white?: boolean }) => (
   <Link to="/" className="flex items-center gap-2 group">
     <div className={white ? "brightness-0 invert" : ""}>
       <img 
-        src="src/logo.png" 
+        src="../src/logo.png" 
         alt="Amulet Pharmaceuticals Ltd." 
         className="h-12 sm:h-16 object-contain"
       />
