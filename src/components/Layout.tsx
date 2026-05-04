@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 
 const Logo = ({ white = false }: { white?: boolean }) => (
   <Link to="/" className="flex items-center gap-2 group">
-    <div className={white ? "brightness-0 invert" : ""}>
+    <div>
       <img 
 
         src="/images/logo.png" 
