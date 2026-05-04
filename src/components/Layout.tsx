@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 
 const Logo = ({ white = false }: { white?: boolean }) => (
   <Link to="/" className="flex items-center gap-2 group">
-    <div class="m-bg-white">
+    <div>
       <img 
 
         src="/images/logo.png" 
@@ -126,7 +126,14 @@ export default function Layout() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 md:grid-cols-4 gap-12">
           <div className="col-span-1 md:col-span-1 lg:col-span-1">
             <div className="mb-6">
-              <Logo white={true} />
+                  <div class="m-bg-white">
+      <img 
+
+        src="/images/logo.png" 
+        alt="Amulet Pharmaceuticals Ltd." 
+        className="h-12 sm:h-16 object-contain"
+      />
+    </div>
             </div>
             <p className="text-sm leading-relaxed mb-6">
               Merging scientific precision with a compassionate heart to deliver WHO-GMP compliant medications across Bangladesh.
