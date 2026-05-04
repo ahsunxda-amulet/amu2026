@@ -131,7 +131,7 @@ export default function Layout() {
 
         src="/images/logo.png" 
         alt="Amulet Pharmaceuticals Ltd." 
-        className="h-12 sm:h-16 object-contain"
+       
       />
     </div>
             </div>
