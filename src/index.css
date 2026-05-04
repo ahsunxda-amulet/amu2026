@@ -16,3 +16,9 @@ body {
     padding: 5px;
     border-radius: 3px;
 }
+.hero-bg {
+    background-image: url(../images/hero.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
