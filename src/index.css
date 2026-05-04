@@ -11,6 +11,8 @@
 body {
   font-family: var(--font-sans);
 }
-.m-bg-white{
-    background-color: #ffffff;
+.m-bg-white {
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 3px;
 }
