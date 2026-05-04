@@ -22,6 +22,7 @@ export default function Home() {
       />
       {/* Hero Section */}
       <section className="relative w-full overflow-hidden bg-slate-900 border-b-8 border-[#0066AE]">
+        <div className="hero-bg">
         <div className="absolute inset-0 z-0 opacity-40">
            <img 
             src="/images/home-hero.jpg" 
@@ -58,6 +59,7 @@ export default function Home() {
               </Link>
             </div>
           </motion.div>
+        </div>
         </div>
       </section>
 
