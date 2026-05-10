@@ -26,7 +26,7 @@ export default function Home() {
         <div className="absolute inset-0 z-0 opacity-40">
            <img 
             src="/images/home-hero.jpg" 
-            alt="Pharmaceutical Manufacturing Laboratory" 
+            alt="Amulet Pharmaceuticals Ltd." 
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-r from-slate-900 via-slate-900/80 to-transparent"></div>
