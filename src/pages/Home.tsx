@@ -94,7 +94,7 @@ export default function Home() {
                className="relative h-80 sm:h-96 lg:h-[600px] rounded-2xl overflow-hidden shadow-2xl"
             >
               <img 
-                src="/images/home-lab.jpg" 
+                src="/images/about-amulet.webp" 
                 alt="Medical Laboratory" 
                 className="w-full h-full object-cover object-center"
               />
