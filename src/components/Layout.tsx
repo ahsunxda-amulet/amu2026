@@ -51,7 +51,7 @@ export default function Layout() {
           <span className="flex items-center gap-1">chairmanapl2023@gmail.com</span>
         </div>
         <div className="flex items-center gap-4 text-blue-100">
-          <span>WHO-GMP Compliant Manufacturing</span>
+          <span>Amulet Pharmaceuticals Ltd.</span>
         </div>
       </div>
 
