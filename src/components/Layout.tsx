@@ -155,8 +155,8 @@ export default function Layout() {
             <address className="not-italic text-sm space-y-3 opacity-80">
               <p>Vill: Singdighi, PO: Mawna</p>
               <p>PS: Sreepur, Dist: Gazipur</p>
-              <p>Phone: +880 1713 415 021</p>
-              <p>Email: ed.amulet.bd@gmail.com</p>
+              <p>Phone: +880 1601 415 021</p>
+              <p>Email: info.amulet.bd@gmail.com</p>
             </address>
           </div>
 
