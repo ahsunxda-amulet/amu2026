@@ -136,7 +136,7 @@ export default function Layout() {
     </div>
             </div>
             <p className="text-sm leading-relaxed mb-6">
-              Merging scientific precision with a compassionate heart to deliver WHO-GMP compliant medications across Bangladesh.
+             Amulet Pharmaceuticals Ltd. is a trusted name in Bangladesh's healthcare sector.
             </p>
           </div>
 
