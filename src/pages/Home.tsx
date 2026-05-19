@@ -40,13 +40,13 @@ export default function Home() {
             className="max-w-3xl"
           >
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-500/10 border border-blue-400/20 text-blue-300 font-medium text-xs mb-6 tracking-wider uppercase">
-              <Factory size={14} /> WHO-GMP Compliant
+              <Factory size={14} /> Amulet Pharmaceuticals Ltd.
             </div>
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight text-white leading-[1.1] mb-6">
               Healthcare Through <br/><span className="text-[#CCEEFF]">Advanced Technology</span>
             </h1>
             <p className="text-lg md:text-xl text-slate-300 mb-10 leading-relaxed font-light max-w-2xl">
-              Merging scientific precision with a compassionate heart to deliver WHO-GMP compliant medications across Bangladesh.
+              Amulet Pharmaceuticals Ltd. is a trusted name in Bangladesh's healthcare sector.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4">
