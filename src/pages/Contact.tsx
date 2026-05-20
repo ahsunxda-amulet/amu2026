@@ -64,7 +64,7 @@ export default function Contact() {
                   <Clock className="w-6 h-6 text-[#0066AE] shrink-0 mt-1" />
                   <div>
                     <h4 className="font-semibold text-slate-900">Office Hours</h4>
-                    <p className="text-slate-600 mt-1">Saturday – Thursday<br />9:00 AM – 6:00 PM</p>
+                    <p className="text-slate-600 mt-1">Saturday – Thursday<br />10:00 AM – 6:00 PM</p>
                   </div>
                 </div>
               </div>
@@ -105,6 +105,13 @@ export default function Contact() {
                   <div>
                     <h4 className="font-semibold text-slate-900">Email</h4>
                     <p className="text-slate-600 mt-1">info.amulet.bd@gmail.com</p>
+                  </div>
+                </div>
+                                <div className="flex items-start gap-4">
+                  <Clock className="w-6 h-6 text-[#0066AE] shrink-0 mt-1" />
+                  <div>
+                    <h4 className="font-semibold text-slate-900">Office Hours</h4>
+                    <p className="text-slate-600 mt-1">Saturday – Thursday<br />8:00 AM – 5:00 PM</p>
                   </div>
                 </div>
               </div>
