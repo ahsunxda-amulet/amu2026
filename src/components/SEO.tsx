@@ -18,15 +18,15 @@ export default function SEO({
   schema 
 }: SEOProps) {
   const fullTitle = `${title} | ${name}`;
-  const url = canonicalUrl || 'https://amulet-pharmaceuticals.com/';
+  const url = canonicalUrl || 'https://amuletpharma.com.bd/';
 
   // Default Organization Schema
   const defaultSchema = {
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "Amulet Pharmaceuticals Ltd.",
-    "url": "https://amulet-pharmaceuticals.com/",
-    "logo": "https://amulet-pharmaceuticals.com/images/logo.png",
+    "url": "https://amuletpharma.com.bd/",
+    "logo": "https://amuletpharma.com.bd/images/logo.png",
     "description": "Healthcare Through Advanced Technology in Bangladesh.",
     "contactPoint": {
       "@type": "ContactPoint",
