@@ -109,7 +109,7 @@ export default function Facilities() {
                </div>
                
                <div className="bg-slate-900 relative min-h-[400px]">
-                  <img src="/images/facilities-lab.jpg" alt="Laboratory Analyst" className="absolute inset-0 w-full h-full object-cover opacity-60" />
+                  <img src="/images/Laboratory-Analyst.webp" alt="Laboratory Analyst" className="absolute inset-0 w-full h-full object-cover opacity-60" />
                   <div className="absolute inset-0 bg-gradient-to-r from-slate-900/80 to-transparent"></div>
                </div>
             </div>
