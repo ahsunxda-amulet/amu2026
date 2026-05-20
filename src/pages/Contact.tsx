@@ -96,7 +96,7 @@ export default function Contact() {
                   <Phone className="w-6 h-6 text-[#0066AE] shrink-0 mt-1" />
                   <div>
                     <h4 className="font-semibold text-slate-900">Phone</h4>
-                    <p className="text-slate-600 mt-1">+880 1713 415 021</p>
+                    <p className="text-slate-600 mt-1">+880 1601 415 021</p>
                   </div>
                 </div>
 
@@ -104,7 +104,7 @@ export default function Contact() {
                   <Mail className="w-6 h-6 text-[#0066AE] shrink-0 mt-1" />
                   <div>
                     <h4 className="font-semibold text-slate-900">Email</h4>
-                    <p className="text-slate-600 mt-1">ed.amulet.bd@gmail.com</p>
+                    <p className="text-slate-600 mt-1">info.amulet.bd@gmail.com</p>
                   </div>
                 </div>
               </div>
