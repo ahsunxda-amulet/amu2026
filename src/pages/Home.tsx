@@ -148,7 +148,7 @@ export default function Home() {
             <div className="order-2 lg:order-1">
               <div className="relative rounded-2xl overflow-hidden shadow-lg mb-8 h-64 md:h-80">
                 <img 
-                  src="/images/home-manufacturing.jpg" 
+                  src="/images/Manufacturing-Prowess.webp" 
                   alt="Manufacturing Line" 
                   className="w-full h-full object-cover"
                 />
