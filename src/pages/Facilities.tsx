@@ -77,8 +77,8 @@ export default function Facilities() {
                viewport={{ once: true }}
                className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-8 lg:mt-0"
             >
-              <img src="/images/facilities-production.jpg" alt="Production line" className="w-full h-64 object-cover rounded-2xl shadow-md" />
-              <img src="/images/facilities-cleanroom.jpg" alt="Clean room" className="w-full h-64 object-cover rounded-2xl shadow-md sm:mt-8" />
+              <img src="/images/Production-line.webp" alt="Production line" className="w-full h-64 object-cover rounded-2xl shadow-md" />
+              <img src="/images/Clean-room.webp" alt="Clean room" className="w-full h-64 object-cover rounded-2xl shadow-md sm:mt-8" />
             </motion.div>
           </div>
         </div>
