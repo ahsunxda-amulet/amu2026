@@ -81,7 +81,7 @@ export default function Contact() {
                 <Factory className="w-8 h-8" />
               </div>
               <h2 className="text-2xl font-bold text-slate-900 mb-6">Factory & Logistics</h2>
-              <p className="text-slate-600 mb-8 italic">For distribution partnership, hospital supply, or bulk inquiries.</p>
+              {/* <p className="text-slate-600 mb-8 italic">For distribution partnership, hospital supply, or bulk inquiries.</p> */}
               
               <div className="space-y-6">
                 <div className="flex items-start gap-4">
