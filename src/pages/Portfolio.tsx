@@ -119,7 +119,7 @@ export default function Portfolio() {
             
             <button className="flex items-center gap-2 text-sm font-semibold text-[#0066AE] bg-blue-50 px-5 py-3 rounded-lg border border-blue-100 hover:bg-blue-100 transition-colors shrink-0">
               <Download size={16} />
-              Download Full Catalog PDF
+              <a href="/images/amulet-pharmacitical-ltd.pdf">Download Full Catalog PDF</a>
             </button>
           </div>
 
