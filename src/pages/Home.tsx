@@ -153,7 +153,7 @@ export default function Home() {
                   className="w-full h-full object-cover"
                 />
               </div>
-              <h3 className="text-2xl font-bold text-slate-900 mb-4">Manufacturing Process</h3>
+              <h3 className="text-2xl font-bold text-slate-900 mb-4">Manufacturing Unit</h3>
               <p className="text-slate-600 mb-6 leading-relaxed">
                 Our state-of-the-art manufacturing facility in Gazipur is designed with modern pharmaceutical engineering standards. Equipped with <strong>Clean Room Technology</strong>, advanced HVAC systems, and automated production lines, we ensure every product is manufactured in a sterile, contamination-free environment.
               </p>
